@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/alignment-experiment/static/css/main.b89b6c8b.chunk.css",
-    "main.js": "/alignment-experiment/static/js/main.993e0979.chunk.js",
-    "main.js.map": "/alignment-experiment/static/js/main.993e0979.chunk.js.map",
+    "main.css": "/alignment-experiment/static/css/main.3dc373a1.chunk.css",
+    "main.js": "/alignment-experiment/static/js/main.ea15f281.chunk.js",
+    "main.js.map": "/alignment-experiment/static/js/main.ea15f281.chunk.js.map",
     "runtime-main.js": "/alignment-experiment/static/js/runtime-main.a6e7d96f.js",
     "runtime-main.js.map": "/alignment-experiment/static/js/runtime-main.a6e7d96f.js.map",
-    "static/css/2.77bc3795.chunk.css": "/alignment-experiment/static/css/2.77bc3795.chunk.css",
-    "static/js/2.eadada7f.chunk.js": "/alignment-experiment/static/js/2.eadada7f.chunk.js",
-    "static/js/2.eadada7f.chunk.js.map": "/alignment-experiment/static/js/2.eadada7f.chunk.js.map",
+    "static/css/2.4e5ca7f1.chunk.css": "/alignment-experiment/static/css/2.4e5ca7f1.chunk.css",
+    "static/js/2.42bbe9de.chunk.js": "/alignment-experiment/static/js/2.42bbe9de.chunk.js",
+    "static/js/2.42bbe9de.chunk.js.map": "/alignment-experiment/static/js/2.42bbe9de.chunk.js.map",
     "index.html": "/alignment-experiment/index.html",
-    "static/css/2.77bc3795.chunk.css.map": "/alignment-experiment/static/css/2.77bc3795.chunk.css.map",
-    "static/css/main.b89b6c8b.chunk.css.map": "/alignment-experiment/static/css/main.b89b6c8b.chunk.css.map",
-    "static/js/2.eadada7f.chunk.js.LICENSE.txt": "/alignment-experiment/static/js/2.eadada7f.chunk.js.LICENSE.txt",
+    "static/css/2.4e5ca7f1.chunk.css.map": "/alignment-experiment/static/css/2.4e5ca7f1.chunk.css.map",
+    "static/css/main.3dc373a1.chunk.css.map": "/alignment-experiment/static/css/main.3dc373a1.chunk.css.map",
+    "static/js/2.42bbe9de.chunk.js.LICENSE.txt": "/alignment-experiment/static/js/2.42bbe9de.chunk.js.LICENSE.txt",
     "static/media/actions-enable.6417ea55.png": "/alignment-experiment/static/media/actions-enable.6417ea55.png",
     "static/media/actions.dd8fabc4.png": "/alignment-experiment/static/media/actions.dd8fabc4.png",
     "static/media/commit.f6d3f745.png": "/alignment-experiment/static/media/commit.f6d3f745.png",
@@ -52,9 +52,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a6e7d96f.js",
-    "static/css/2.77bc3795.chunk.css",
-    "static/js/2.eadada7f.chunk.js",
-    "static/css/main.b89b6c8b.chunk.css",
-    "static/js/main.993e0979.chunk.js"
+    "static/css/2.4e5ca7f1.chunk.css",
+    "static/js/2.42bbe9de.chunk.js",
+    "static/css/main.3dc373a1.chunk.css",
+    "static/js/main.ea15f281.chunk.js"
   ]
 }
