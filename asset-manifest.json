@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alignment-experiment/static/css/main.3dc373a1.chunk.css",
-    "main.js": "/alignment-experiment/static/js/main.ea15f281.chunk.js",
-    "main.js.map": "/alignment-experiment/static/js/main.ea15f281.chunk.js.map",
+    "main.js": "/alignment-experiment/static/js/main.b5579830.chunk.js",
+    "main.js.map": "/alignment-experiment/static/js/main.b5579830.chunk.js.map",
     "runtime-main.js": "/alignment-experiment/static/js/runtime-main.a6e7d96f.js",
     "runtime-main.js.map": "/alignment-experiment/static/js/runtime-main.a6e7d96f.js.map",
     "static/css/2.4e5ca7f1.chunk.css": "/alignment-experiment/static/css/2.4e5ca7f1.chunk.css",
@@ -55,6 +55,6 @@
     "static/css/2.4e5ca7f1.chunk.css",
     "static/js/2.42bbe9de.chunk.js",
     "static/css/main.3dc373a1.chunk.css",
-    "static/js/main.ea15f281.chunk.js"
+    "static/js/main.b5579830.chunk.js"
   ]
 }
