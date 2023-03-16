@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/alignment-experiment/static/css/main.3dc373a1.chunk.css",
-    "main.js": "/alignment-experiment/static/js/main.b5579830.chunk.js",
-    "main.js.map": "/alignment-experiment/static/js/main.b5579830.chunk.js.map",
+    "main.css": "/alignment-experiment/static/css/main.5c67adbc.chunk.css",
+    "main.js": "/alignment-experiment/static/js/main.bf49b099.chunk.js",
+    "main.js.map": "/alignment-experiment/static/js/main.bf49b099.chunk.js.map",
     "runtime-main.js": "/alignment-experiment/static/js/runtime-main.a6e7d96f.js",
     "runtime-main.js.map": "/alignment-experiment/static/js/runtime-main.a6e7d96f.js.map",
     "static/css/2.4e5ca7f1.chunk.css": "/alignment-experiment/static/css/2.4e5ca7f1.chunk.css",
-    "static/js/2.42bbe9de.chunk.js": "/alignment-experiment/static/js/2.42bbe9de.chunk.js",
-    "static/js/2.42bbe9de.chunk.js.map": "/alignment-experiment/static/js/2.42bbe9de.chunk.js.map",
+    "static/js/2.b4ba25a6.chunk.js": "/alignment-experiment/static/js/2.b4ba25a6.chunk.js",
+    "static/js/2.b4ba25a6.chunk.js.map": "/alignment-experiment/static/js/2.b4ba25a6.chunk.js.map",
     "index.html": "/alignment-experiment/index.html",
     "static/css/2.4e5ca7f1.chunk.css.map": "/alignment-experiment/static/css/2.4e5ca7f1.chunk.css.map",
-    "static/css/main.3dc373a1.chunk.css.map": "/alignment-experiment/static/css/main.3dc373a1.chunk.css.map",
-    "static/js/2.42bbe9de.chunk.js.LICENSE.txt": "/alignment-experiment/static/js/2.42bbe9de.chunk.js.LICENSE.txt",
+    "static/css/main.5c67adbc.chunk.css.map": "/alignment-experiment/static/css/main.5c67adbc.chunk.css.map",
+    "static/js/2.b4ba25a6.chunk.js.LICENSE.txt": "/alignment-experiment/static/js/2.b4ba25a6.chunk.js.LICENSE.txt",
     "static/media/actions-enable.6417ea55.png": "/alignment-experiment/static/media/actions-enable.6417ea55.png",
     "static/media/actions.dd8fabc4.png": "/alignment-experiment/static/media/actions.dd8fabc4.png",
     "static/media/commit.f6d3f745.png": "/alignment-experiment/static/media/commit.f6d3f745.png",
@@ -53,8 +53,8 @@
   "entrypoints": [
     "static/js/runtime-main.a6e7d96f.js",
     "static/css/2.4e5ca7f1.chunk.css",
-    "static/js/2.42bbe9de.chunk.js",
-    "static/css/main.3dc373a1.chunk.css",
-    "static/js/main.b5579830.chunk.js"
+    "static/js/2.b4ba25a6.chunk.js",
+    "static/css/main.5c67adbc.chunk.css",
+    "static/js/main.bf49b099.chunk.js"
   ]
 }
